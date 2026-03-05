@@ -1,8 +1,8 @@
 # FILE NAME - compliment_01.py
 
-# NAME: 
-# DATE: 
-# BRIEF DESCRIPTION:  
+# NAME: Anthony Colon
+# DATE: March 5th, 2026
+# BRIEF DESCRIPTION:  Compliment_01
 
 
 
@@ -15,11 +15,12 @@
 
 ########## ENTER YER CODE BELOW THIS LINE ##########
 
+answer = input("Would you like a compliment? ")
 
+if answer.lower() == "yes":
+    print("You have wonderful eyes.")
 
-
-
-
+print("Thank you for playing.")
 
 
 
@@ -67,12 +68,13 @@ Thank you for playing.
 
 1. On a scale of 1 to 10 (where 10 is the hardest), how would you rate this lab?
 
+I would rate it a 5! two weeks ago it would have been an 8-9 for me.
 
 
 
 2. What was the hardest part of this lab?
 
-
+The hardest part was adding the new conditional, but it was not that bad!
 
 
 
